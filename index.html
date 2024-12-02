@@ -548,6 +548,27 @@
             }
         }
 
+        .group-picture-container {
+        width: 70%;
+        max-width: 1000px;
+        margin: 2rem auto;
+        padding: 0 1rem;
+        }
+
+        .group-picture {
+            width: 100%;
+            height: 400px;
+            object-fit: cover;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        /* Adjust spacing for mobile */
+        @media (max-width: 768px) {
+            .group-picture {
+                height: 300px;
+            }
+        }
         h1 {
             font-size: 2.5rem;
             margin-bottom: 1rem;
@@ -584,6 +605,15 @@
                 </p>
             </div>
     
+            <!-- Add group picture section here -->
+            <div class="group-picture-container">
+                <img 
+                    src="member_pics/group_pic.jpg" 
+                    alt="RL2 Lab Group Photo" 
+                    class="group-picture"
+                >
+            </div>
+
             <div class="news-container">
                 <h2 class="section-title">News</h2>
                 <div class="news-section">
