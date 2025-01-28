@@ -1,6 +1,34 @@
 {
     "publications": [
       {
+        "title": "EgoMimic: Scaling Imitation Learning through Egocentric Video",
+        "authors": "Simar Kareer, Dhruv Patel*, Ryan Punamiya*, Pranay Mathur*, Shuo Cheng, Chen Wang, Judy Hoffman*, Danfei Xu*",
+        "venue": "ICRA 2025",
+        "abstract": "Robot Learning from Egocentric Human Data",
+        "thumbnail": {
+          "type": "video",
+          "url": "egomimic.mp4"
+        },
+        "links": {
+          "paper": "https://arxiv.org/abs/2410.24221",
+          "website": "https://egomimic.github.io/"
+        }
+      },
+    {
+        "title": "RAIL: Reachability-Aided Imitation Learning for Safe Policy Execution",
+        "authors": "Wonsuhk Jung, Dennis Anthony, Utkarsh A Mishra, Nadun Ranawaka Arachchige, Matthew Bronars, Danfei Xu*, Shreyas Kousik*",
+        "venue": "ICRA 2025",
+        "abstract": "Plug-and-play safety filters for policy models.",
+        "thumbnail": {
+          "type": "image",
+          "url": "rail_jung2025.png"
+        },
+        "links": {
+          "paper": "https://arxiv.org/abs/2409.19190",
+          "website": "https://rail2024.github.io/"
+        }
+      },
+      {
         "title": "What Matters in Learning from Large-Scale Datasets for Robot Manipulation",
         "authors": "Vaibhav Saxena, Matthew Bronars*, Nadun Ranawaka Arachchige*, Kuancheng Wang, Woo Chul Shin, Soroush Nasiriany, Ajay Mandlekar*, Danfei Xu*",
         "venue": "ICLR 2025",
@@ -12,20 +40,6 @@
         "links": {
           "paper": "https://openreview.net/pdf?id=LqhorpRLIm",
           "website": "https://mimiclabs-iclr.github.io/"
-        }
-      },
-      {
-        "title": "EgoMimic: Scaling Imitation Learning through Egocentric Video",
-        "authors": "Simar Kareer, Dhruv Patel*, Ryan Punamiya*, Pranay Mathur*, Shuo Cheng, Chen Wang, Judy Hoffman*, Danfei Xu*",
-        "venue": "In Submission",
-        "abstract": "Robot Learning from Egocentric Human Data",
-        "thumbnail": {
-          "type": "video",
-          "url": "egomimic.mp4"
-        },
-        "links": {
-          "paper": "https://arxiv.org/abs/2410.24221",
-          "website": "https://egomimic.github.io/"
         }
       },
       {
