@@ -1,6 +1,20 @@
 {
     "publications": [
       {
+        "title": "What Matters in Learning from Large-Scale Datasets for Robot Manipulation",
+        "authors": "Vaibhav Saxena, Matthew Bronars*, Nadun Ranawaka Arachchige*, Kuancheng Wang, Woo Chul Shin, Soroush Nasiriany, Ajay Mandlekar*, Danfei Xu*",
+        "venue": "ICLR 2025",
+        "abstract": "MimicLabs, a large-scale data generation framework and data composition study for imitation learning.",
+        "thumbnail": {
+          "type": "image",
+          "url": "mimiclabs_saxena2025.jpg"
+        },
+        "links": {
+          "paper": "https://openreview.net/pdf?id=LqhorpRLIm",
+          "website": "https://mimiclabs-iclr.github.io/"
+        }
+      },
+      {
         "title": "EgoMimic: Scaling Imitation Learning through Egocentric Video",
         "authors": "Simar Kareer, Dhruv Patel*, Ryan Punamiya*, Pranay Mathur*, Shuo Cheng, Chen Wang, Judy Hoffman*, Danfei Xu*",
         "venue": "In Submission",
