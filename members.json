@@ -88,6 +88,12 @@
           "role": "M.S. Student",
           "website": "https://cassie-lim.github.io/",
           "image": "member_pics/mengying_lin.jpg"
+        },
+        {
+          "name": "David He",
+          "role": "M.S. Student",
+          "website": "https://davidhe137.github.io",
+          "image": "member_pics/david_he.jpg"
         }
       ],
       "undergrad_students": [
