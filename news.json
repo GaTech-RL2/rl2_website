@@ -13,8 +13,13 @@
             "content": "Danfei gave an Early Career Keynote at CoRL 2024 on <a href=\"https://www.youtube.com/watch?v=H-a748rN9M4\">Robot Learning from Embodied Human Data</a> <a href=\"corl24.pdf\">(slides)</a>"
         },
         {
+            "date": "October 2024",
+            "content": "Danfei gave a talk at the Cornell Robotics Seminar"
+        },
+
+        {
             "date": "July 2024",
-            "content": "$1M NSF grant awarded to support our lab to <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=2409016&HistoricalAwards=false\">develop generative models for robot training and validation</a>"
+            "content": "Received NSF grant to <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=2409016&HistoricalAwards=false\">develop generative models for robot training and validation</a>"
         },
         {
             "date": "July 2024",
@@ -22,7 +27,7 @@
         },
         {
             "date": "June 2024",
-            "content": "Invited talk at Toyota Research Institute"
+            "content": "Danfei gave an invited talk at Toyota Research Institute"
         },
         {
             "date": "May 2024",

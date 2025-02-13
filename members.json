@@ -11,49 +11,49 @@
       "phd_students": [
         {
           "name": "Shuo Cheng",
-          "role": "CS Ph.D. Student",
+          "role": "CS Ph.D.",
           "website": "https://sites.google.com/view/shuocheng",
           "image": "member_pics/shuo_cheng.jpg"
         },
         {
           "name": "Shangjie Xue",
-          "role": "CS Ph.D. Student",
+          "role": "CS Ph.D.",
           "website": "https://xsj01.github.io/",
           "image": "member_pics/shangjie_xue.png"
         },
         {
           "name": "Vaibhav Saxena",
-          "role": "ML Ph.D. Student",
+          "role": "ML Ph.D.",
           "website": "https://sites.google.com/view/vaibhavsaxena",
           "image": "member_pics/vaibhav_saxena.jpeg"
         },
         {
           "name": "Utkarsh Mishra",
-          "role": "ROBO Ph.D. Student",
+          "role": "ROBO Ph.D. (co-advisor: Yongxin Chen)",
           "website": "http://umishra.me/",
           "image": "member_pics/utkarsh_mishra.jpeg"
         },
         {
           "name": "Fukang Liu",
-          "role": "ROBO Ph.D. Student",
+          "role": "ROBO Ph.D. (co-advisor: Ye Zhao)",
           "website": "https://fukangl.github.io/",
           "image": "member_pics/fukang_liu.jpg"
         },
         {
           "name": "Nadun Ranawaka",
-          "role": "ROBO Ph.D. Student",
+          "role": "ROBO Ph.D.",
           "website": "https://www.linkedin.com/in/nadun-ranawaka-arachchige-87701b137/",
           "image": "member_pics/nadun_ranawaka.jpeg"
         },
         {
           "name": "Zhenyang Chen",
-          "role": "ECE Ph.D. Student",
+          "role": "ECE Ph.D. (co-advisor: Celine Lin)",
           "website": "https://chenzheny.github.io/",
           "image": "member_pics/zhenyang_chen.jpg"
         },
         {
           "name": "Simar Kareer",
-          "role": "CS Ph.D. Student",
+          "role": "CS Ph.D. (co-advisor: Judy Hoffman)",
           "website": "https://simarkareer.com/",
           "image": "member_pics/simar_kareer.png"
         }
