@@ -1,8 +1,16 @@
 {
     "news": [
         {
+            "date": "Januaray 2025",
+            "content": "Received support from Autodesk for Research on Learning-based Automation."
+        },
+        {
+            "date": "December 2025",
+            "content": "Received support from Meta for Research on Robot Learning from Human data."
+        },
+        {
             "date": "November 2024",
-            "content": "Early Career Keynote at CoRL 2024 on <a href=\"https://www.youtube.com/watch?v=H-a748rN9M4\">Robot Learning from Embodied Human Data</a> <a href=\"corl24.pdf\">(slides)</a>"
+            "content": "Danfei gave an Early Career Keynote at CoRL 2024 on <a href=\"https://www.youtube.com/watch?v=H-a748rN9M4\">Robot Learning from Embodied Human Data</a> <a href=\"corl24.pdf\">(slides)</a>"
         },
         {
             "date": "July 2024",
