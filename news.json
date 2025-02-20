@@ -1,6 +1,10 @@
 {
     "news": [
         {
+            "date": "Feburary 2025",
+            "content": "A <a href=\"https://ai.meta.com/blog/egomimic-project-aria-georgia-tech-ego4d-robotics-embodied-ai/\">case study</a> covering our collaboration with Meta Reality Lab on Robot Learning from Human Data."
+        },
+        {
             "date": "Januaray 2025",
             "content": "Received support from Autodesk for Research on Learning-based Automation."
         },
