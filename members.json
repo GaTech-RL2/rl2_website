@@ -110,12 +110,6 @@
           "image": "member_pics/kuancheng_wang.jpg"
         },
         {
-          "name": "Grace Guo",
-          "role": "Undergrad Student",
-          "website": "#",
-          "image": "member_pics/placeholder.jpg"
-        },
-        {
           "name": "Alan Tian",
           "role": "Undergrad Student",
           "website": "https://alantian2018.github.io/",
@@ -132,12 +126,6 @@
           "role": "Undergrad Student",
           "website": "#",
           "image": "member_pics/rohan_bansal.jpg"
-        },
-        {
-          "name": "Tony (Huajin) Tu",
-          "role": "Undergrad Student",
-          "website": "#",
-          "image": "member_pics/huajin_tu.png"
         }
       ],
       "visiting_students": [
@@ -147,6 +135,44 @@
           "website": "https://devinluo27.github.io/",
           "image": "member_pics/yunhao_luo.jpg"
         }
+      ],
+      "robots": [
+        {
+            "name": "G1",
+            "role": "Unitree G1",
+            "website": "#",
+            "image": "member_pics/g1.png"
+        },
+        {
+            "name": "RB",
+            "role": "Rainbow RB-Y1",
+            "website": "#",
+            "image": "member_pics/rb.jpg"
+        },
+        {
+            "name": "EVE",
+            "role": "EVE",
+            "website": "#",
+            "image": "member_pics/eve.png"
+        },
+        {
+            "name": "R1",
+            "role": "Franka Panda FR3",
+            "website": "#",
+            "image": "member_pics/r1.jpg"
+        },
+        {
+            "name": "R2",
+            "role": "Franka Panda FR3",
+            "website": "#",
+            "image": "member_pics/r2.jpg"
+        },
+        {
+            "name": "R3",
+            "role": "Franka Panda FR3",
+            "website": "#",
+            "image": "member_pics/r3.jpg"
+        }
       ]
-    }
-  }
+   }
+}
