@@ -1,6 +1,14 @@
 {
     "news": [
         {
+            "date": "May 2025",
+            "content": "Danfei gave two talks at ICRA Workshops on Neural-Symbolic Data Engine."
+        },
+        {
+            "date": "April 2025",
+            "content": "Danfei gave a talk at the UMich Robotics Seminar on Generative Task and Motion Planning."
+        },
+        {
             "date": "Feburary 2025",
             "content": "A <a href=\"https://ai.meta.com/blog/egomimic-project-aria-georgia-tech-ego4d-robotics-embodied-ai/\">case study</a> covering our collaboration with Meta Reality Lab on Robot Learning from Human Data."
         },
