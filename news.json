@@ -1,6 +1,14 @@
 {
     "news": [
         {
+            "date": "Aug 2025",
+            "content": "Our lab have three papers accepted at CoRL 2025. Congratulations, Nadun, Zhenyang, Yangcen, Woochul, Wonsuhk, and Utkarsh!"
+        },
+        {
+            "date": "July 2025",
+            "content": "Our lab received the NSF CAREER Award. Thanks NSF!"
+        },
+        {
             "date": "May 2025",
             "content": "Danfei gave two talks at ICRA Workshops on Neural-Symbolic Data Engine."
         },
