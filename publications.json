@@ -1,6 +1,21 @@
 {
     "publications": [
       {
+        "title": "SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies",
+        "authors": "Nadun Ranawaka Arachchige*, Zhenyang Chen*, Wonsuhk Jung, Woo Chul Shin, Rohan Bansal, Pierre Barroso, Yu Hang He, Yingyan Celine Lin, Benjamin Joffe, Shreyas Kousik*, Danfei Xu*",
+        "venue": "CoRL 2025",
+        "abstract": "System to execute imitation learning policies faster than human demonstrations",
+        "awards": ["Oral Presentation"],
+        "thumbnail": {
+          "type": "image",
+          "url": "sail.png"
+        },
+        "links": {
+          "paper": "https://arxiv.org/abs/2506.11948",
+          "website": "https://nadunranawaka1.github.io/sail-policy/"
+        }
+      },
+      {
         "title": "EgoMimic: Scaling Imitation Learning through Egocentric Video",
         "authors": "Simar Kareer, Dhruv Patel*, Ryan Punamiya*, Pranay Mathur*, Shuo Cheng, Chen Wang, Judy Hoffman*, Danfei Xu*",
         "venue": "ICRA 2025",
@@ -14,7 +29,7 @@
           "website": "https://egomimic.github.io/"
         }
       },
-    {
+     {
         "title": "RAIL: Reachability-Aided Imitation Learning for Safe Policy Execution",
         "authors": "Wonsuhk Jung, Dennis Anthony, Utkarsh A Mishra, Nadun Ranawaka Arachchige, Matthew Bronars, Danfei Xu*, Shreyas Kousik*",
         "venue": "ICRA 2025",
