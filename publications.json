@@ -22,8 +22,8 @@
         "abstract": "A unified diffusion framework for planning and optimization",
         "thumbnail": {
           "type": "video",
-          "url": "jm2d.gif"
-        },
+          "url": "jm2d.mp4"
+        }
       },
       {
         "title": "EgoMimic: Scaling Imitation Learning through Egocentric Video",
