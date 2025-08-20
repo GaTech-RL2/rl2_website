@@ -16,6 +16,16 @@
         }
       },
       {
+        "title": "Joint Model-based Model-free Diffusion for Planning with Constraints",
+        "authors": "Wonsuhk Jung*, Utkarsh A Mishra*, Nadun Ranawaka Arachchige, Yongxin Chen*, Danfei Xu*, Shreyas Kousik*",
+        "venue": "CoRL 2025",
+        "abstract": "A unified diffusion framework for planning and optimization",
+        "thumbnail": {
+          "type": "video",
+          "url": "jm2d.mp4"
+        }
+      },
+      {
         "title": "EgoMimic: Scaling Imitation Learning through Egocentric Video",
         "authors": "Simar Kareer, Dhruv Patel*, Ryan Punamiya*, Pranay Mathur*, Shuo Cheng, Chen Wang, Judy Hoffman*, Danfei Xu*",
         "venue": "ICRA 2025",
