@@ -57,6 +57,12 @@
           "website": "https://simarkareer.com/",
           "image": "member_pics/simar_kareer.png"
         }
+        {
+          "name": "Baoyu Li",
+          "role": "CS Ph.D.",
+          "website": "https://boey-li.github.io/",
+          "image": "member_pics/baoyu_li.jpg"
+        }
       ],
       "masters_students": [
         {
