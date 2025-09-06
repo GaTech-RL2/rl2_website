@@ -60,11 +60,11 @@
         "abstract": "MimicLabs, a large-scale data generation framework and data composition study for imitation learning.",
         "thumbnail": {
           "type": "image",
-          "url": "mimiclabs_saxena2025.jpg"
+          "url": "mimiclabs_saxena2025.png"
         },
         "links": {
-          "paper": "https://openreview.net/pdf?id=LqhorpRLIm",
-          "website": "https://mimiclabs-iclr.github.io/"
+          "paper": "https://arxiv.org/pdf/2506.13536",
+          "website": "https://robo-mimiclabs.github.io/"
         }
       },
       {
