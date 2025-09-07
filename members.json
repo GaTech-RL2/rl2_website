@@ -66,12 +66,6 @@
       ],
       "masters_students": [
         {
-          "name": "Dhruv Patel",
-          "role": "M.S. Student",
-          "website": "https://dhruv2012.github.io/",
-          "image": "member_pics/dhruv_patel.jpg"
-        },
-        {
           "name": "Woochul Shin",
           "role": "M.S. Student",
           "website": "https://www.linkedin.com/in/woochulshin/",
@@ -116,12 +110,6 @@
       ],
       "undergrad_students": [
         {
-          "name": "Kuancheng Wang",
-          "role": "Undergrad Student",
-          "website": "https://www.linkedin.com/in/kuanchengwang/",
-          "image": "member_pics/kuancheng_wang.jpg"
-        },
-        {
           "name": "Alan Tian",
           "role": "Undergrad Student",
           "website": "https://alantian2018.github.io/",
@@ -147,12 +135,6 @@
         }
       ],
       "visiting_students": [
-        {
-          "name": "Yunhao Luo",
-          "role": "Visiting Student",
-          "website": "https://devinluo27.github.io/",
-          "image": "member_pics/yunhao_luo.jpg"
-        }
       ],
       "robots": [
         {
