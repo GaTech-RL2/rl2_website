@@ -1,6 +1,21 @@
 {
     "publications": [
       {
+        "title": "Generative Trajectory Stitching through Diffusion Composition",
+        "authors": "Yunhao Luo, Utkarsh A. Mishra, Yilun Du*, Danfei Xu*",
+        "venue": "NeurIPS 2025",
+        "abstract": "A compositional diffusion planner that constructs long-horizon plans from short-horizon training data.",
+        "awards": ["Spotlight"],
+        "thumbnail": {
+          "type": "video",
+          "url": "2025/2025-compdfu-web-v4-rl2-v2.mp4"
+        },
+        "links": {
+          "paper": "https://arxiv.org/abs/2503.05153",
+          "website": "https://comp-diffuser.github.io/"
+        }
+      },
+      {
         "title": "SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies",
         "authors": "Nadun Ranawaka Arachchige*, Zhenyang Chen*, Wonsuhk Jung, Woo Chul Shin, Rohan Bansal, Pierre Barroso, Yu Hang He, Yingyan Celine Lin, Benjamin Joffe, Shreyas Kousik*, Danfei Xu*",
         "venue": "CoRL 2025",
