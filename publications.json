@@ -16,6 +16,21 @@
         }
       },
       {
+        "title": "ImMimic: Cross-Domain Imitation from Human Videos via Mapping and Interpolation",
+        "authors": "Yangcen Liu*, Woo Chul Shin*, Yunhai Han, Zhenyang Chen, Harish Ravichandar, Danfei Xu",
+        "venue": "CoRL 2025",
+        "abstract": "Embodiment-agnostic pipeline to learn from human videos",
+        "awards": ["Oral Presentation"],
+        "thumbnail": {
+          "type": "image",
+          "url": "immimic.png"
+        },
+        "links": {
+          "paper": "https://arxiv.org/abs/2509.10952",
+          "website": "https://sites.google.com/view/immimic"
+        }
+      },
+      {
         "title": "SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies",
         "authors": "Nadun Ranawaka Arachchige*, Zhenyang Chen*, Wonsuhk Jung, Woo Chul Shin, Rohan Bansal, Pierre Barroso, Yu Hang He, Yingyan Celine Lin, Benjamin Joffe, Shreyas Kousik*, Danfei Xu*",
         "venue": "CoRL 2025",
