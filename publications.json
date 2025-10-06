@@ -1,6 +1,20 @@
 {
     "publications": [
       {
+        "title": "EgoBridge: Domain Adaptation for Generalizable Imitation from Egocentric Human Data",
+        "authors": "Ryan Punamiya, Dhruv Patel, Elmo Aphiwetsa, Pranav Kuppili, Lawrence Y. Zhu, Simar Kareer*, Judy Hoffman*, Danfei Xu*",
+        "venue": "NeurIPS 2025",
+        "abstract": "Joint observation-action domain adaptation using Optimal Transport to enable robot generalization from egocentric human data.",
+        "thumbnail": {
+          "type": "video",
+          "url": "egobridge.mp4"
+        },
+        "links": {
+          "paper": "https://arxiv.org/abs/2509.19626",
+          "website": "https://ego-bridge.github.io/"
+        }
+      },
+      {
         "title": "Generative Trajectory Stitching through Diffusion Composition",
         "authors": "Yunhao Luo, Utkarsh A. Mishra, Yilun Du*, Danfei Xu*",
         "venue": "NeurIPS 2025",
