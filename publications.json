@@ -1,6 +1,20 @@
 {
     "publications": [
       {
+        "title": "Generalizable Domain Adaptation for Sim-and-Real Policy Co-Training",
+        "authors": "Shuo Cheng*, Liqian Ma*, Zhenyang Chen, Ajay Mandlekar*, Caelan Garrett*, Danfei Xu",
+        "venue": "NeurIPS 2025",
+        "abstract": "A sim-and-real co-training framework for learning generalizable manipulation policies.",
+        "thumbnail": {
+          "type": "image",
+          "url": "ot_sim2real.png"
+        },
+        "links": {
+          "paper": "https://arxiv.org/abs/2509.18631",
+          "website": "https://ot-sim2real.github.io/"
+        }
+      },
+      {
         "title": "EgoBridge: Domain Adaptation for Generalizable Imitation from Egocentric Human Data",
         "authors": "Ryan Punamiya, Dhruv Patel, Elmo Aphiwetsa, Pranav Kuppili, Lawrence Y. Zhu, Simar Kareer*, Judy Hoffman*, Danfei Xu*",
         "venue": "NeurIPS 2025",
