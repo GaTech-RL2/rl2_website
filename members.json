@@ -106,7 +106,13 @@
           "role": "M.S. Student",
           "website": "https://xinchenyin.github.io/",
           "image": "member_pics/xinchen_yin.jpeg"
-        }
+        },
+          {
+              "name": "Pranav Kuppili",
+              "role": "M.S. Student",
+              "website": "https://www.linkedin.com/in/pranav-kuppili-b05071250/",
+              "image": "member_pics/pranav_kuppili.jpg"
+          }
       ],
       "undergrad_students": [
         {
