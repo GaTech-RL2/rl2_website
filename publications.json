@@ -1,6 +1,22 @@
 {
     "publications": [
       {
+        "title": "EMMA: Scaling Mobile Manipulation via Egocentric Human Data",
+        "authors": "Lawrence Yunzhou Zhu, Pranav Kuppili*, Ryan Punamiya*, Patcharapong Aphiwetsa**, Dhruv Patel**, Simar Kareer, Sehoon Ha, Danfei Xu",
+        "venue": "IEEE RA-L 2025",
+        "abstract": "Scaling mobile manipulation from co-training static robot data and egocentric human full-body data.",
+        "thumbnail": {
+          "type": "video",
+          "url": "emma_zhu2025.mp4"
+        },
+        "links": {
+          "paper": "https://arxiv.org/pdf/2509.04443",
+          "website": "https://ego-moma.github.io/",
+          "video": "https://youtu.be/Qq1Jp52Zj3Q?si=NW_HGs_TeXnXMkJ9",
+          "x-post": "https://x.com/LawrenceZhu22/status/1965430612283850978?s=20"
+        }
+      },      
+      {
         "title": "Generalizable Domain Adaptation for Sim-and-Real Policy Co-Training",
         "authors": "Shuo Cheng*, Liqian Ma*, Zhenyang Chen, Ajay Mandlekar*, Caelan Garrett*, Danfei Xu",
         "venue": "NeurIPS 2025",
