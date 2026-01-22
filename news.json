@@ -1,6 +1,10 @@
 {
     "news": [
         {
+            "date": "Jan 2026",
+            "content": "Ryan Punamiya has won the Runner Up place of the CRA Outstanding Undergraduate Researcher Award. Congratulations, Ryan!"
+        },
+        {
             "date": "Sep 2025",
             "content": "Our lab has three papers accepted at NeurIPS 2025!"
         },
