@@ -107,12 +107,18 @@
           "website": "https://xinchenyin.github.io/",
           "image": "member_pics/xinchen_yin.jpeg"
         },
-          {
-              "name": "Pranav Kuppili",
-              "role": "M.S. Student",
-              "website": "https://www.linkedin.com/in/pranav-kuppili-b05071250/",
-              "image": "member_pics/pranav_kuppili.jpg"
-          }
+        {
+            "name": "Pranav Kuppili",
+            "role": "M.S. Student",
+            "website": "https://www.linkedin.com/in/pranav-kuppili-b05071250/",
+            "image": "member_pics/pranav_kuppili.jpg"
+        },
+        {
+          "name": "Chuye Zhang",
+          "role": "M.S. Student",
+          "website": "https://zhangchuye.github.io/",
+          "image": "member_pics/chuye_zhang.png"
+        }
       ],
       "undergrad_students": [
         {
