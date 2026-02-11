@@ -392,6 +392,39 @@
                 width: 160px;  /* slightly smaller on mobile */
             }
         }
+
+        .alumni-section {
+            max-width: 1000px;
+            margin: 3rem auto 0;
+            padding: 0 20px 0 calc(20px + 1rem);
+        }
+        .alumni-section h3 {
+            font-size: 1.25rem;
+            color: #333;
+            margin-bottom: 1rem;
+            font-weight: 600;
+        }
+        .alumni-list {
+            list-style: none;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            gap: 0.5rem 1.5rem;
+        }
+        .alumni-list li {
+            font-size: 0.95rem;
+            color: #444;
+        }
+        .alumni-list a {
+            color: #333;
+            text-decoration: none;
+        }
+        .alumni-list a:hover {
+            text-decoration: underline;
+        }
+        .alumni-role {
+            color: #666;
+            font-size: 0.9rem;
+        }
         .publication-list {
             max-width: 1200px;
             margin: 0 auto;
@@ -644,6 +677,12 @@
                 <!-- Member cards will be added here by JavaScript -->
             </div>
         </div>
+        <div class="alumni-section">
+            <h3>Alumni</h3>
+            <ul class="alumni-list" id="alumniList">
+                <!-- Alumni will be added here by JavaScript -->
+            </ul>
+        </div>
     </div>
 
     <div id="publications" class="page">
@@ -844,9 +883,27 @@
                         });
                     }
                 });
+                await loadAndRenderAlumni();
             } catch (error) {
                 console.error('Error loading members:', error);
                 document.querySelector('.member-container').innerHTML = '<p>Error loading members data. Please try again later.</p>';
+            }
+        }
+
+        async function loadAndRenderAlumni() {
+            try {
+                const response = await fetch('alumni.json');
+                const data = await response.json();
+                const list = document.getElementById('alumniList');
+                list.innerHTML = (data.alumni || []).map(person => {
+                    const link = person.website && person.website !== '#' 
+                        ? `<a href="${person.website}">${person.name}</a>` 
+                        : person.name;
+                    return `<li>${link}<span class="alumni-role"> — ${person.role || ''}</span></li>`;
+                }).join('');
+            } catch (error) {
+                console.error('Error loading alumni:', error);
+                document.getElementById('alumniList').innerHTML = '<li>Error loading alumni.</li>';
             }
         }
         // Handle navigation and page switching

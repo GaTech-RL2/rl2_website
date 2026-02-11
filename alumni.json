@@ -1,0 +1,11 @@
+{
+  "alumni": [
+    { "name": "Matthew Bronars", "role": "M.S. → CMU RI Ph.D."},
+    { "name": "Pujith Kachana", "role": "B.S. → Wayve"},
+    { "name": "Sachit Kuhar", "role": "M.S. → Amazon AI"},
+    { "name": "Kuanchen Wang", "role": "B.S. → UCSD Ph.D."},
+    { "name": "Jesse Dill", "role": "M.S. → Waymo"},
+    { "name": "Archana Kutumbaka", "role": "M.S. → Apple"},
+    { "name": "Yunhao Luo", "role": "Visitor → UMich Ph.D."}
+  ]
+}
