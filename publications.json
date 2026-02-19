@@ -1,6 +1,22 @@
 {
     "publications": [
       {
+        "title": "Compositional Diffusion with Guided Search for Long-Horizon Planning",
+        "authors": "Utkarsh A. Mishra, David He, Yongxin Chen, Danfei Xu",
+        "venue": "ICLR 2026",
+        "abstract": "Inference time scaling of compositional diffusion planners with guided search.",
+        "awards": ["Oral"],
+        "thumbnail": {
+          "type": "image",
+          "url": "cdgs_mishra2026.png"
+        },
+        "links": {
+          "paper": "https://arxiv.org/pdf/2601.00126",
+          "website": "https://cdgsearch.github.io/",
+          "code": "https://github.com/cdgsearch/getting_started_with_CDGS"
+        }
+      },
+      {
         "title": "EMMA: Scaling Mobile Manipulation via Egocentric Human Data",
         "authors": "Lawrence Yunzhou Zhu, Pranav Kuppili*, Ryan Punamiya*, Patcharapong Aphiwetsa**, Dhruv Patel**, Simar Kareer, Sehoon Ha, Danfei Xu",
         "venue": "IEEE RA-L 2025",
