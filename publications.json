@@ -1,6 +1,23 @@
 {
   "publications": [
     {
+      "title": "Continual Robot Learning via Language-Guided Skill Acquisition",
+      "authors": "Shuo Cheng*, Zhaoyi Li*, Kelin Yu*, Danfei Xu",
+      "venue": "TMLR 2026",
+      "abstract": "An LLM-powered pipeline for automatic task decomposition, policy learning, and planning for continual skill acquisition and adaptation.",
+      "awards": [
+        "J2C Certification (Present at NeurIPS 2026)"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "lgsail_cheng2026.png"
+      },
+      "links": {
+        "paper": "https://openreview.net/forum?id=oYRNxxGN9u",
+        "website": "https://sites.google.com/view/continuallearning"
+      }
+    },
+    {
       "title": "Compositional Visual Planning via Inference-Time Diffusion Scaling",
       "authors": "Yixin Zhang, Yunhao Luo, Utkarsh A. Mishra, Woo Chul Shin, Yongxin Chen, Danfei Xu",
       "venue": "ICLR 2026",
