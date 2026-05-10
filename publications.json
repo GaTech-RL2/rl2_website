@@ -1,6 +1,21 @@
 {
   "publications": [
     {
+      "title": "EgoVerse: An Egocentric Human Dataset for Robot Learning from Around the World",
+      "authors": "Ryan Punamiya*, Simar Kareer*, Zeyi Liu, Josh Citron, Ri-Zhao Qiu, Xiongyi Cai, Alexey Gavryushin, Jiaqi Chen, Davide Liconti, Lawrence Y. Zhu, Patcharapong Aphiwetsa, Baoyu Li, Aniketh Cheluva, Pranav Kuppili, Yangcen Liu, Dhruv Patel, Aidan Gao, Hye-Young Chung, Ryan Co, Renee Zbizika, Jeff Jinyun Liu, Xiaomeng Xu, Haoyu Xiong, Geng Chen, Sebastiano Oliani, Chenyu Yang, Xi Wang, James Fort, Richard Newcombe, Josh Gao, Jason Chong, Garrett Matsuda, Aseem Doriwala, Marc Pollefeys, Robert Katzschmann, Xiaolong Wang, Shuran Song, Judy Hoffman, Danfei Xu",
+      "venue": "RSS 2026",
+      "abstract": "A consortium-driven cross-lab and industry effort introducing a study, end-to-end training system, and a large-scale 1300+ hour diverse egocentric human dataset for robot learning from around the world.",
+      "thumbnail": {
+        "type": "video",
+        "url": "egoverse_punamiya2026.mp4"
+      },
+      "links": {
+        "paper": "https://arxiv.org/pdf/2604.07607",
+        "website": "https://egoverse.ai/",
+        "x-post": "https://x.com/danfei_xu/status/2036108953017368960?lang=en"
+      }
+    },
+    {
       "title": "Continual Robot Learning via Language-Guided Skill Acquisition",
       "authors": "Shuo Cheng*, Zhaoyi Li*, Kelin Yu*, Danfei Xu",
       "venue": "TMLR 2026",

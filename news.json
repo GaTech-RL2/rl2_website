@@ -1,6 +1,10 @@
 {
     "news": [
         {
+            "date": "May 2026",
+            "content": "Our lab has 4 papers accepted at RSS 2026!"
+        },
+        {
             "date": "Jan 2026",
             "content": "Our lab received support from Toyota Research Institute to work on Robot Learning from in-the-wild Human Data. Thanks, TRI!"
         },
