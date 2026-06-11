@@ -1,6 +1,20 @@
 {
   "publications": [
     {
+      "title": "ReSteer: Quantifying and Refining the Steerability of Multitask Robot Policies",
+      "authors": "Zhenyang Chen, Alan Tian†, Liquan Wang†, Benjamin Joffe, Yingyan Celine Lin, Yuxiao Chen, Siddharth Karamcheti‡, Danfei Xu‡",
+      "venue": "RSS 2026",
+      "abstract": "A data-centric framework to quantify and improve the task steerability of multitask robot policies, enabling robots to flexibly switch to new language instructions at any point during execution.",
+      "thumbnail": {
+        "type": "image",
+        "url": "resteer_chen2026.png"
+      },
+      "links": {
+        "paper": "https://arxiv.org/pdf/2603.17300",
+        "website": "https://resteer-vla.github.io/"
+      }
+    },
+    {
       "title": "EgoVerse: An Egocentric Human Dataset for Robot Learning from Around the World",
       "authors": "Ryan Punamiya*, Simar Kareer*, Zeyi Liu, Josh Citron, Ri-Zhao Qiu, Xiongyi Cai, Alexey Gavryushin, Jiaqi Chen, Davide Liconti, Lawrence Y. Zhu, Patcharapong Aphiwetsa, Baoyu Li, Aniketh Cheluva, Pranav Kuppili, Yangcen Liu, Dhruv Patel, Aidan Gao, Hye-Young Chung, Ryan Co, Renee Zbizika, Jeff Jinyun Liu, Xiaomeng Xu, Haoyu Xiong, Geng Chen, Sebastiano Oliani, Chenyu Yang, Xi Wang, James Fort, Richard Newcombe, Josh Gao, Jason Chong, Garrett Matsuda, Aseem Doriwala, Marc Pollefeys, Robert Katzschmann, Xiaolong Wang, Shuran Song, Judy Hoffman, Danfei Xu",
       "venue": "RSS 2026",
