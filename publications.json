@@ -1,6 +1,21 @@
 {
   "publications": [
     {
+      "title": "KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning",
+      "authors": "Yixuan Huang*, Bowen Li*, Vaibhav Saxena*, Yichao Liang, Utkarsh Aashu Mishra, Liang Ji, Lihan Zha, Jimmy Wu, Nishanth Kumar, Sebastian Scherer, Danfei Xu, Tom Silver",
+      "venue": "RSS 2026",
+      "abstract": "A benchmark for Kinematic and Dynamic Embodied Reasoning that targets physical reasoning challenges arising in robot learning and planning.",
+      "thumbnail": {
+        "type": "image",
+        "url": "kinder_huang2026.png"
+      },
+      "links": {
+        "paper": "https://arxiv.org/pdf/2604.25788",
+        "website": "https://prpl-group.com/kinder-site/",
+        "x-post": "https://x.com/YixuanHuang13/status/2049937393759801484"
+      }
+    },
+      { 
       "title": "ReSteer: Quantifying and Refining the Steerability of Multitask Robot Policies",
       "authors": "Zhenyang Chen, Alan Tian†, Liquan Wang†, Benjamin Joffe, Yingyan Celine Lin, Yuxiao Chen, Siddharth Karamcheti‡, Danfei Xu‡",
       "venue": "RSS 2026",
