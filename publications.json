@@ -1,6 +1,20 @@
 {
   "publications": [
     {
+      "title": "Emergence of Human to Robot Transfer in Vision-Language-Action Models",
+      "authors": "Simar Kareer, Karl Pertsch, James Darpinian, Judy Hoffman, Danfei Xu, Sergey Levine, Chelsea Finn, Suraj Nair",
+      "venue": "Physical Intelligence, 2025",
+      "abstract": "Human to robot transfer scales as a function of diverse VLA pretraining, and embodiment agnostic representations begin to emerge.",
+      "thumbnail": {
+        "type": "image",
+        "url": "h2r_kareer2025.png"
+      },
+      "links": {
+        "paper": "https://www.pi.website/download/human_to_robot.pdf",
+        "website": "https://www.pi.website/research/human_to_robot"
+      }
+    },
+    {
       "title": "KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning",
       "authors": "Yixuan Huang*, Bowen Li*, Vaibhav Saxena*, Yichao Liang, Utkarsh Aashu Mishra, Liang Ji, Lihan Zha, Jimmy Wu, Nishanth Kumar, Sebastian Scherer, Danfei Xu, Tom Silver",
       "venue": "RSS 2026",
