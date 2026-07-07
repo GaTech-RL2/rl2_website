@@ -60,12 +60,6 @@
       ],
       "masters_students": [
         {
-          "name": "Yixin Zhang",
-          "role": "M.S. Student",
-          "website": "#",
-          "image": "member_pics/placeholder.jpg"
-        },
-        {
           "name": "Lawrence Zhu",
           "role": "M.S. Student",
           "website": "https://lawrencez22.github.io/",
