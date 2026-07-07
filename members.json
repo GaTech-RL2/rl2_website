@@ -52,6 +52,12 @@
           "image": "member_pics/simar_kareer.png"
         },
         {
+          "name": "Lawrence Zhu",
+          "role": "CS Ph.D. (co-advisor: Sehoon Ha)",
+          "website": "https://lawrencez22.github.io/",
+          "image": "member_pics/lawrence_zhu.jpg"
+        },
+        {
           "name": "Baoyu Li",
           "role": "CS Ph.D.",
           "website": "https://boey-li.github.io/",
@@ -59,12 +65,6 @@
         }
       ],
       "masters_students": [
-        {
-          "name": "Lawrence Zhu",
-          "role": "M.S. Student",
-          "website": "https://lawrencez22.github.io/",
-          "image": "member_pics/lawrence_zhu.jpg"
-        },
         {
           "name": "Xinchen Yin",
           "role": "M.S. Student",
