@@ -6,6 +6,12 @@
     { "name": "Kuanchen Wang", "role": "B.S. → UCSD Ph.D."},
     { "name": "Jesse Dill", "role": "M.S. → Waymo"},
     { "name": "Archana Kutumbaka", "role": "M.S. → Apple"},
-    { "name": "Yunhao Luo", "role": "Visitor → UMich Ph.D."}
+    { "name": "Yunhao Luo", "role": "Visitor → UMich Ph.D."},
+    { "name": "Woochul Shin", "role": "M.S. → UMD Ph.D."},
+    { "name": "Yangcen Liu", "role": "M.S. → UChicago Ph.D."},
+    { "name": "Ryan Punamiya", "role": "B.S. → NVIDIA GEAR"},
+    { "name": "Mengying Lin", "role": "M.S. → Graduated"},
+    { "name": "David He", "role": "M.S. → Optiver"},
+    { "name": "Pranav Kuppili", "role": "M.S. → Mecka AI"}
   ]
 }

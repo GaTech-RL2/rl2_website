@@ -34,12 +34,6 @@
           "image": "member_pics/utkarsh_mishra.jpeg"
         },
         {
-          "name": "Fukang Liu",
-          "role": "ROBO Ph.D. (co-advisor: Ye Zhao)",
-          "website": "https://fukangl.github.io/",
-          "image": "member_pics/fukang_liu.jpg"
-        },
-        {
           "name": "Nadun Ranawaka",
           "role": "CS Ph.D.",
           "website": "https://nadunranawaka1.github.io/",
@@ -66,34 +60,10 @@
       ],
       "masters_students": [
         {
-          "name": "Woochul Shin",
-          "role": "M.S. Student",
-          "website": "https://www.linkedin.com/in/woochulshin/",
-          "image": "member_pics/woochul_shin.jpg"
-        },
-        {
-          "name": "Yangcen Liu",
-          "role": "M.S. Student",
-          "website": "https://yangcenliu.github.io/homepage.github.io/",
-          "image": "member_pics/yangcen_liu.jpg"
-        },
-        {
           "name": "Yixin Zhang",
           "role": "M.S. Student",
           "website": "#",
           "image": "member_pics/placeholder.jpg"
-        },
-        {
-          "name": "Mengying Lin",
-          "role": "M.S. Student",
-          "website": "https://cassie-lim.github.io/",
-          "image": "member_pics/mengying_lin.jpg"
-        },
-        {
-          "name": "David He",
-          "role": "M.S. Student",
-          "website": "https://davidhe137.github.io",
-          "image": "member_pics/david_he.jpg"
         },
         {
           "name": "Lawrence Zhu",
@@ -108,12 +78,6 @@
           "image": "member_pics/xinchen_yin.jpeg"
         },
         {
-            "name": "Pranav Kuppili",
-            "role": "M.S. Student",
-            "website": "https://www.linkedin.com/in/pranav-kuppili-b05071250/",
-            "image": "member_pics/pranav_kuppili.jpg"
-        },
-        {
           "name": "Chuye Zhang",
           "role": "M.S. Student",
           "website": "https://zhangchuye.github.io/",
@@ -126,12 +90,6 @@
           "role": "Undergrad Student",
           "website": "https://alantian2018.github.io/",
           "image": "member_pics/alan_tian.jpg"
-        },
-        {
-          "name": "Ryan Punamiya",
-          "role": "Undergrad Student",
-          "website": "https://rpunamiya.dev/",
-          "image": "member_pics/ryan_punamiya.jpg"
         },
         {
           "name": "Rohan Bansal",
