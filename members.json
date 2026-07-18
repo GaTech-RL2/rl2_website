@@ -76,6 +76,12 @@
           "role": "M.S. Student",
           "website": "https://zhangchuye.github.io/",
           "image": "member_pics/chuye_zhang.png"
+        },
+        {
+          "name": "Alfred Cueva",
+          "role": "M.S. Student",
+          "website": "https://alfred-cueva.github.io/",
+          "image": "member_pics/alfred_cueva.png"
         }
       ],
       "undergrad_students": [
