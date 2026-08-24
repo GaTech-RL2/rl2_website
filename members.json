@@ -62,7 +62,13 @@
           "role": "CS Ph.D.",
           "website": "https://boey-li.github.io/",
           "image": "member_pics/baoyu_li.jpg"
-        }
+        },
+	{
+	  "name": "James Ni",
+	  "role": "CS Ph.D.",
+	  "website": "https://jaynye.github.io/",
+	  "image": "member_pics/james_ni.jpeg"
+	}
       ],
       "masters_students": [
         {
