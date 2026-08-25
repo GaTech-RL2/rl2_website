@@ -92,6 +92,12 @@
           "image": "member_pics/rohan_bansal.jpg"
         }, 
         {
+          "name": "Elmo Aphiwetsa",
+          "role": "Undergrad Student",
+          "website": "#",
+          "image": "member_pics/elmo_aphiwetsa.jpg"
+        },
+        {
           "name": "Aniketh Cheluva",
           "role": "Undergrad Student",
           "website": "#",
@@ -124,6 +130,12 @@
             "role": "EVE",
             "website": "#",
             "image": "member_pics/eve.png"
+        },
+        {
+            "name": "APOLLO",
+            "role": "APOLLO",
+            "website": "#",
+            "image": "member_pics/apollo.jpg"
         },
         {
             "name": "R1",
