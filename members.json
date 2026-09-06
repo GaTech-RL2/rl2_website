@@ -134,7 +134,13 @@
           "website": "#",
           "image": "member_pics/dhruv_ahuja.jpg"
         },
-                {
+        {
+          "name": "Ryan Co",
+          "role": "Undergrad Student",
+          "website": "https://ryanpco.github.io/",
+          "image": "member_pics/ryan_co.jpg"
+        },
+        {
           "name": "Aidan Gao",
           "role": "Undergrad Student",
           "website": "#",
