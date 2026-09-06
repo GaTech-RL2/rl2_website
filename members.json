@@ -73,6 +73,12 @@
       ],
       "masters_students": [
         {
+          "name": "Ziyi Wang",
+          "role": "M.S. Robotics Student",
+          "website": "https://ziyiwang54.github.io",
+          "image" : "member_pics/ziyi_wang.jpg"
+        },
+        {
           "name": "Xinchen Yin",
           "role": "M.S. Student",
           "website": "https://xinchenyin.github.io/",
