@@ -79,10 +79,22 @@
           "image": "member_pics/xinchen_yin.jpeg"
         },
         {
+          "name": "Jenny Chung",
+          "role": "M.S. Student",
+          "website": "#",
+          "image": "member_pics/jenny_chung.jpg"
+        },
+        {
           "name": "Chuye Zhang",
           "role": "M.S. Student",
           "website": "https://zhangchuye.github.io/",
           "image": "member_pics/chuye_zhang.png"
+        },
+        {
+          "name": "Jaeeun Lee",
+          "role": "M.S. Student",
+          "website": "#",
+          "image": "member_pics/jaeeun_lee.png"
         }
       ],
       "undergrad_students": [
@@ -98,6 +110,12 @@
           "website": "https://rbansal.dev",
           "image": "member_pics/rohan_bansal.jpeg"
         }, 
+        {
+          "name": "Elmo Aphiwetsa",
+          "role": "Undergrad Student",
+          "website": "#",
+          "image": "member_pics/elmo_aphiwetsa.jpg"
+        },
         {
           "name": "Aniketh Cheluva",
           "role": "Undergrad Student",
@@ -137,6 +155,12 @@
             "role": "EVE",
             "website": "#",
             "image": "member_pics/eve.png"
+        },
+        {
+            "name": "APOLLO",
+            "role": "APOLLO",
+            "website": "#",
+            "image": "member_pics/apollo.jpg"
         },
         {
             "name": "R1",
