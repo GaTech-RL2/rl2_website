@@ -62,7 +62,14 @@
           "role": "CS Ph.D.",
           "website": "https://boey-li.github.io/",
           "image": "member_pics/baoyu_li.jpg"
+        },
+        {
+          "name": "Ziyu Zhu",
+          "role": "ROBO Ph.D.",
+          "website": "https://alwaysleepy.github.io/",
+          "image": "member_pics/ziyu_zhu.jpg"
         }
+          
       ],
       "masters_students": [
         {
