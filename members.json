@@ -70,6 +70,12 @@
           "image": "member_pics/james_ni.jpeg"
         },
         {
+          "name": "Chendong Xin",
+          "role": "ROBO Ph.D.",
+          "website": "https://star-xcd.github.io/",
+          "image": "member_pics/chendong_xin.jpg"
+        },
+        {
           "name": "Ziyu Zhu",
           "role": "ROBO Ph.D.",
           "website": "https://alwaysleepy.github.io/",
@@ -77,6 +83,12 @@
         }
       ],
       "masters_students": [
+        {
+          "name": "Ziyi Wang",
+          "role": "M.S. Student",
+          "website": "https://ziyiwang54.github.io",
+          "image" : "member_pics/ziyi_wang.jpg"
+        },
         {
           "name": "Xinchen Yin",
           "role": "M.S. Student",
@@ -94,6 +106,12 @@
           "role": "M.S. Student",
           "website": "https://zhangchuye.github.io/",
           "image": "member_pics/chuye_zhang.png"
+        },
+        {
+          "name": "Youngwoong Cho",
+          "role": "M.S. Student",
+          "website": "#",
+          "image": "member_pics/youngwoong_cho.jpeg"
         },
         {
           "name": "Alfred Cueva",
@@ -138,6 +156,12 @@
           "role": "Undergrad Student",
           "website": "#",
           "image": "member_pics/dhruv_ahuja.jpg"
+        },
+        {
+          "name": "Aadi Dash",
+          "role": "Undergrad Student",
+          "website": "#",
+          "image": "member_pics/aadi_dash.jpg"
         },
         {
           "name": "Ryan Co",
