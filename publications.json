@@ -110,12 +110,15 @@
     {
       "title": "EMMA: Scaling Mobile Manipulation via Egocentric Human Data",
       "authors": "Lawrence Yunzhou Zhu, Pranav Kuppili*, Ryan Punamiya*, Patcharapong Aphiwetsa**, Dhruv Patel**, Simar Kareer, Sehoon Ha, Danfei Xu",
-      "venue": "IEEE RA-L 2025",
+      "venue": "IEEE RA-L 2026, ICRA 2026",
       "abstract": "Scaling mobile manipulation from co-training static robot data and egocentric human full-body data.",
       "thumbnail": {
         "type": "video",
         "url": "emma_zhu2025.mp4"
       },
+      "awards": [
+        "Oral Presentation"
+      ],
       "links": {
         "paper": "https://arxiv.org/pdf/2509.04443",
         "website": "https://ego-moma.github.io/",
