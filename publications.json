@@ -4,7 +4,7 @@
       "title": "Action Chunk Scheduling for Batched Robot Policy Serving",
       "authors": "Rohan Bansal*, David He*, Nadun Ranawaka Arachchige, Zhenyang Chen, Soobum Kim, Kexin Rong†, Danfei Xu†",
       "venue": "CoRL 2026",
-      "abstract": "Armory, a system for serving a robot policy to a fleet of robots from a remote GPU, with a scheduling algorithm that accounts for heterogeneous action chunk consumption rates and improves throughput by up to 18% in real-world experiments.",
+      "abstract": "Armory, a system for serving a robot policy to a fleet of robots from a remote GPU.",
       "thumbnail": {
         "type": "image",
         "url": "armory_bansal2026.png"
