@@ -16,6 +16,20 @@
       }
     },
     {
+      "title": "WARP: Whole-Body Retargeting for Learning from Offline Human Demonstrations",
+      "authors": "Zhenyang Chen*, Chuizheng Kong*, Chuye Zhang*, Yuanshao Yang, Lawrence Y. Zhu, Shreyas Kousik, Danfei Xu",
+      "venue": "CoRL 2026",
+      "abstract": "A closed-form retargeting pipeline that converts offline human demonstrations into precise, consistent whole-body robot actions, enabling open-loop replay and policy learning for whole-body mobile manipulation with no teleoperation in the loop.",
+      "thumbnail": {
+        "type": "image",
+        "url": "warp_chen2026.jpg"
+      },
+      "links": {
+        "paper": "https://arxiv.org/pdf/2606.29940",
+        "website": "https://warp-retargeting.github.io/"
+      }
+    },
+    {
       "title": "Emergence of Human to Robot Transfer in Vision-Language-Action Models",
       "authors": "Simar Kareer, Karl Pertsch, James Darpinian, Judy Hoffman, Danfei Xu, Sergey Levine, Chelsea Finn, Suraj Nair",
       "venue": "RSS 2026",
