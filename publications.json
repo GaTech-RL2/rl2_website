@@ -1,5 +1,19 @@
 {
   "publications": [
+      {
+        "title": "Human2Any: Human-to-Robot Transfer via Constraint-Aware Compositional Planning",
+        "authors": "Shuo Cheng, Chuye Zhang, Alfred Cueva, Caelan Garrett*, Ajay Mandlekar*, Danfei Xu",
+        "venue": "CoRL 2026",
+        "abstract": "Human2Any enables robot manipulation learning from human videos without real-world robot demonstrations by combining reusable object-centric interaction priors with robot-specific feasibility reasoning to generalize across embodiments, scenes, and tasks.",
+        "thumbnail": {
+          "type": "image",
+          "url": "human2any_cheng26.png"
+        },
+        "links": {
+          "paper": "https://arxiv.org/abs/2606.28813",
+          "website": "https://human2any.github.io/"
+        }
+      },
     {
       "title": "Action Chunk Scheduling for Batched Robot Policy Serving",
       "authors": "Rohan Bansal*, David He*, Nadun Ranawaka Arachchige, Zhenyang Chen, Soobum Kim, Kexin Rong†, Danfei Xu†",
