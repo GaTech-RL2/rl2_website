@@ -1,6 +1,21 @@
 {
   "publications": [
     {
+      "title": "Action Chunk Scheduling for Batched Robot Policy Serving",
+      "authors": "Rohan Bansal*, David He*, Nadun Ranawaka Arachchige, Zhenyang Chen, Soobum Kim, Kexin Rong†, Danfei Xu†",
+      "venue": "CoRL 2026",
+      "abstract": "Armory, a system for serving a robot policy to a fleet of robots from a remote GPU.",
+      "thumbnail": {
+        "type": "image",
+        "url": "armory_bansal2026.png"
+      },
+      "links": {
+        "paper": "https://arxiv.org/pdf/2608.00337",
+        "website": "https://gatech-rl2.github.io/actionchunkscheduling/",
+        "code": "https://github.com/GaTech-RL2/armory"
+      }
+    },
+    {
       "title": "Emergence of Human to Robot Transfer in Vision-Language-Action Models",
       "authors": "Simar Kareer, Karl Pertsch, James Darpinian, Judy Hoffman, Danfei Xu, Sergey Levine, Chelsea Finn, Suraj Nair",
       "venue": "RSS 2026",
