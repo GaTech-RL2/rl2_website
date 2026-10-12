@@ -1,6 +1,23 @@
 {
   "publications": [
       {
+        "title": "EgoEngine: From Egocentric Human Videos to High-Fidelity Dexterous Robot Demonstrations",
+        "authors": "Yangcen Liu, Shuo Cheng, Xinchen Yin*, Woo Chul Shin*, Alfred Cueva*, Yiran Yang, Zhenyang Chen, Chuye Zhang, Danfei Xu",
+        "venue": "CoRL 2026",
+        "abstract": "EgoEngine converts egocentric human videos into robot-executable demonstrations by combining reinforcement learning-based motion refinement with arm-hand inpainting and robot rendering to bridge action and visual gaps for dexterous robot learning.",
+        "awards": [
+          "RSS 2026 Dexterous Manipulation Workshop Spotlight"
+        ],
+        "thumbnail": {
+          "type": "image",
+          "url": "egoengine_liu2026.png"
+        },
+        "links": {
+          "paper": "https://arxiv.org/pdf/2606.12604",
+          "website": "https://egoengine.github.io/"
+        }
+      },
+      {
         "title": "Human2Any: Human-to-Robot Transfer via Constraint-Aware Compositional Planning",
         "authors": "Shuo Cheng, Chuye Zhang, Alfred Cueva, Caelan Garrett*, Ajay Mandlekar*, Danfei Xu",
         "venue": "CoRL 2026",
