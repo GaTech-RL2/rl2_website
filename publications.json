@@ -1,6 +1,20 @@
 {
   "publications": [
       {
+        "title": "Static In, Dynamic Out: Counterfactual Action Augmentation for Moving Object Manipulation",
+        "authors": "Woo Chul Shin, Zhenyang Chen, Alfred Cueva*, Nadun Ranawaka*, Yingyan Celine Lin, Benjamin Joffe, Shreyas Kousik, Danfei Xu",
+        "venue": "Arxiv Preprint, 2026",
+        "abstract": "SIDO lets visuomotor policies trained only on static-object demonstrations manipulate moving objects by augmenting training with counterfactual future object poses and adjusted action chunks, paired with an object pose predictor at deployment.",
+        "thumbnail": {
+          "type": "video",
+          "url": "sido_shin2026.mp4"
+        },
+        "links": {
+          "paper": "https://arxiv.org/abs/2607.27890",
+          "website": "https://sido-staticindynamicout.github.io/"
+        }
+      },
+      {
         "title": "Understanding and Mitigating the Video-Action Generalization Gap via Temporal Ratio",
         "authors": "Utkarsh A. Mishra, Yongxin Chen, Danfei Xu, Yang Liu, Xi Chen, Jiayuan Mao",
         "venue": "CoRL 2026",
