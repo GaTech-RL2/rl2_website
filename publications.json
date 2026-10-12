@@ -1,6 +1,20 @@
 {
   "publications": [
       {
+        "title": "Understanding and Mitigating the Video-Action Generalization Gap via Temporal Ratio",
+        "authors": "Utkarsh A. Mishra, Yongxin Chen, Danfei Xu, Yang Liu, Xi Chen, Jiayuan Mao",
+        "venue": "CoRL 2026",
+        "abstract": "We introduce Temporal Ratio, an attention measure that predicts how well video-action models generalize compositionally, and use it for adaptive guidance that narrows the generalization gap.",
+        "thumbnail": {
+          "type": "video",
+          "url": "temporalratio_mishra2026.mp4"
+        },
+        "links": {
+          "paper": "https://arxiv.org/abs/2607.08127",
+          "website": "https://umishra.me/temporal-ratio/"
+        }
+      },
+      {
         "title": "EgoEngine: From Egocentric Human Videos to High-Fidelity Dexterous Robot Demonstrations",
         "authors": "Yangcen Liu, Shuo Cheng, Xinchen Yin*, Woo Chul Shin*, Alfred Cueva*, Yiran Yang, Zhenyang Chen, Chuye Zhang, Danfei Xu",
         "venue": "CoRL 2026",
