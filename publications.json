@@ -1,5 +1,19 @@
 {
   "publications": [
+    {
+      "title": "SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation",
+      "authors": "Nadun Ranawaka*, Josiah Wong*, Wei-Lin Pai, Wei-Teng Chu, Tianyuan Dai, Masoud Moghani, Hang Yin, Yunfan Jiang, Wesley Durbano, Brandon Huynh, Yu Fang, Danfei Xu, Ruohan Zhang, Li Fei-Fei, Linxi Fan, Bowen Wen, Ajay Mandlekar†, Yuke Zhu†",
+      "venue": "CoRL 2026",
+      "abstract": "A Real2Sim2Real pipeline that turns real-world videos into sim-ready scenes for scalable policy learning and evaluation.",
+      "thumbnail": {
+        "type": "video",
+        "url": "SimFoundry.mp4"
+      },
+      "links": {
+        "paper": "https://arxiv.org/abs/2606.28276",
+        "website": "https://research.nvidia.com/labs/gear/simfoundry/"
+      }
+    },
       {
         "title": "Understanding and Mitigating the Video-Action Generalization Gap via Temporal Ratio",
         "authors": "Utkarsh A. Mishra, Yongxin Chen, Danfei Xu, Yang Liu, Xi Chen, Jiayuan Mao",
