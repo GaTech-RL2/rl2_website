@@ -1,5 +1,19 @@
 {
   "publications": [
+    {
+      "title": "Active Generative Simulation: Meta-Learning What to Simulate for Sim-and-Real Policy Co-Training",
+      "authors": "Liqian Ma, Vaibhav Saxena, Utkarsh Aashu Mishra, Shuo Cheng, Yongxin Chen*, Danfei Xu*",
+      "venue": "CoRL 2026",
+      "abstract": "MetaGenSim meta-learns a rater that scores simulation data by its utility for a real-world target task, then actively generates targeted simulation data for sim-and-real co-training, matching expert manual alignment without hand-tuning simulation parameters.",
+      "thumbnail": {
+        "type": "video",
+        "url": "activegensim_ma2026.mp4"
+      },
+      "links": {
+        "paper": "https://arxiv.org/abs/2610.19479",
+        "website": "https://meta-gensim.github.io/"
+      }
+    },
       {
         "title": "Understanding and Mitigating the Video-Action Generalization Gap via Temporal Ratio",
         "authors": "Utkarsh A. Mishra, Yongxin Chen, Danfei Xu, Yang Liu, Xi Chen, Jiayuan Mao",
