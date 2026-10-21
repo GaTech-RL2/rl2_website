@@ -1,6 +1,22 @@
 {
   "publications": [
       {
+        "title": "EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data",
+        "authors": "Baoyu Li*, Xinchen Yin*, Mengying Lin, Yixin Zhang, Danfei Xu",
+        "venue": "CoRL 2026",
+        "abstract": "EgoWAM is a controlled human-robot co-training framework showing that World Action Models scale better with in-the-wild egocentric human data than behavior cloning, with DINO and 3D flow world targets far outperforming pixel prediction for human-to-robot transfer.",
+        "thumbnail": {
+          "type": "video",
+          "url": "egowam_li2026.mp4"
+        },
+        "links": {
+          "paper": "https://arxiv.org/abs/2607.08436",
+          "website": "https://gatech-rl2.github.io/egowam.github.io/",
+          "code": "https://github.com/GaTech-RL2/EgoWAM",
+          "x-post": "https://x.com/BaoyuLi6/status/2074879989254906297"
+        }
+      },
+      {
         "title": "Understanding and Mitigating the Video-Action Generalization Gap via Temporal Ratio",
         "authors": "Utkarsh A. Mishra, Yongxin Chen, Danfei Xu, Yang Liu, Xi Chen, Jiayuan Mao",
         "venue": "CoRL 2026",
