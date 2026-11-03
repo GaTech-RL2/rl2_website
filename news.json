@@ -1,6 +1,10 @@
 {
     "news": [
         {
+            "date": "Nov 2026",
+            "content": "Our lab has 9 papers accepted at CoRL 2026!" 
+        },
+        {
             "date": "May 2026",
             "content": "Our lab has 4 papers accepted at RSS 2026!"
         },
