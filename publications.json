@@ -47,7 +47,7 @@
       {
         "title": "Static In, Dynamic Out: Counterfactual Action Augmentation for Moving Object Manipulation",
         "authors": "Woo Chul Shin, Zhenyang Chen, Alfred Cueva*, Nadun Ranawaka*, Yingyan Celine Lin, Benjamin Joffe, Shreyas Kousik, Danfei Xu",
-        "venue": "Arxiv Preprint, 2026",
+        "venue": "CoRL 2026",
         "abstract": "SIDO lets visuomotor policies trained only on static-object demonstrations manipulate moving objects by augmenting training with counterfactual future object poses and adjusted action chunks, paired with an object pose predictor at deployment.",
         "thumbnail": {
           "type": "video",
