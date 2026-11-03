@@ -14,6 +14,50 @@
         "website": "https://research.nvidia.com/labs/gear/simfoundry/"
       }
     },
+    {
+      "title": "Active Generative Simulation: Meta-Learning What to Simulate for Sim-and-Real Policy Co-Training",
+      "authors": "Liqian Ma, Vaibhav Saxena, Utkarsh Aashu Mishra, Shuo Cheng, Yongxin Chen*, Danfei Xu*",
+      "venue": "CoRL 2026",
+      "abstract": "MetaGenSim meta-learns a rater that scores simulation data by its utility for a real-world target task, then actively generates targeted simulation data for sim-and-real co-training, matching expert manual alignment without hand-tuning simulation parameters.",
+      "thumbnail": {
+        "type": "video",
+        "url": "activegensim_ma2026.mp4"
+      },
+      "links": {
+        "paper": "https://arxiv.org/abs/2610.19479",
+        "website": "https://meta-gensim.github.io/"
+      }
+    },
+      {
+        "title": "EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data",
+        "authors": "Baoyu Li*, Xinchen Yin*, Mengying Lin, Yixin Zhang, Danfei Xu",
+        "venue": "CoRL 2026",
+        "abstract": "EgoWAM is a controlled human-robot co-training framework showing that World Action Models scale better with in-the-wild egocentric human data than behavior cloning, with DINO and 3D flow world targets far outperforming pixel prediction for human-to-robot transfer.",
+        "thumbnail": {
+          "type": "video",
+          "url": "egowam_li2026.mp4"
+        },
+        "links": {
+          "paper": "https://arxiv.org/abs/2607.08436",
+          "website": "https://gatech-rl2.github.io/egowam.github.io/",
+          "code": "https://github.com/GaTech-RL2/EgoWAM",
+          "x-post": "https://x.com/BaoyuLi6/status/2074879989254906297"
+        }
+      },
+      {
+        "title": "Static In, Dynamic Out: Counterfactual Action Augmentation for Moving Object Manipulation",
+        "authors": "Woo Chul Shin, Zhenyang Chen, Alfred Cueva*, Nadun Ranawaka*, Yingyan Celine Lin, Benjamin Joffe, Shreyas Kousik, Danfei Xu",
+        "venue": "Arxiv Preprint, 2026",
+        "abstract": "SIDO lets visuomotor policies trained only on static-object demonstrations manipulate moving objects by augmenting training with counterfactual future object poses and adjusted action chunks, paired with an object pose predictor at deployment.",
+        "thumbnail": {
+          "type": "video",
+          "url": "sido_shin2026.mp4"
+        },
+        "links": {
+          "paper": "https://arxiv.org/abs/2607.27890",
+          "website": "https://sido-staticindynamicout.github.io/"
+        }
+      },
       {
         "title": "Understanding and Mitigating the Video-Action Generalization Gap via Temporal Ratio",
         "authors": "Utkarsh A. Mishra, Yongxin Chen, Danfei Xu, Yang Liu, Xi Chen, Jiayuan Mao",
