@@ -448,7 +448,10 @@
         "url": "nvf_xue2024.mp4"
       },
       "links": {
-        "paper": "https://arxiv.org/abs/2406.06948"
+        "paper": "https://arxiv.org/abs/2406.06948",
+        "website": "https://sites.google.com/view/nvf-cvpr24/",
+        "code": "https://github.com/GaTech-RL2/nvf_cvpr24",
+        "x-post": "https://x.com/ShangjieXue/status/1802720638941208992?a=XcuBp3gREsSkvvhaiA8&s=20"
       }
     },
     {
