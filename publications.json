@@ -133,6 +133,22 @@
       }
     },
     {
+      "title": "GAVIS: Uncertainty-driven 3D Gaussian Splatting Active Mapping via Anisotropic Visibility Field",
+      "authors": "Shangjie Xue*, Jesse Dill*, Dhruv Ahuja*, Frank Dellaert, Panagiotis Tsiotras, Danfei Xu",
+      "venue": "CVPR 2026",
+      "abstract": "A principled framework for real-time uncertainty quantification in 3DGS, enabling accurate and efficient active perception.",
+      "thumbnail": {
+        "type": "video",
+        "url": "gavis_xue2026_web.mp4",
+        "poster": "assets/gavis_xue2026_web.jpg"
+      },
+      "links": {
+        "paper": "https://arxiv.org/abs/2605.30342",
+        "website": "https://gatech-rl2.github.io/GAVIS/",
+        "code": "https://github.com/xsj01/gavis"
+      }
+    },
+    {
       "title": "Emergence of Human to Robot Transfer in Vision-Language-Action Models",
       "authors": "Simar Kareer, Karl Pertsch, James Darpinian, Judy Hoffman, Danfei Xu, Sergey Levine, Chelsea Finn, Suraj Nair",
       "venue": "RSS 2026",
@@ -448,7 +464,10 @@
         "url": "nvf_xue2024.mp4"
       },
       "links": {
-        "paper": "https://arxiv.org/abs/2406.06948"
+        "paper": "https://arxiv.org/abs/2406.06948",
+        "website": "https://sites.google.com/view/nvf-cvpr24/",
+        "code": "https://github.com/GaTech-RL2/nvf_cvpr24",
+        "x-post": "https://x.com/ShangjieXue/status/1802720638941208992?a=XcuBp3gREsSkvvhaiA8&s=20"
       }
     },
     {
